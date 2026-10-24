@@ -1,0 +1,4 @@
+project_id = "sewamitra"
+
+[functions.admin-signup]
+verify_jwt = false
