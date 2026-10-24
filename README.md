@@ -1,6 +1,6 @@
 # Sewamitra — Cooperative Gig Services Platform
 
-**SIH26089 — Smart India Hackathon**
+
 
 > Building a Stronger Community.
 
